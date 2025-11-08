@@ -1,8 +1,8 @@
 {
-  "$schema": "file:///C:/Users/%USERNAME%/.config/fastfetch/fastfetch/doc/json_schema.json",
+  "$schema": "file:///C:/Users/ender/.config/fastfetch/fastfetch/doc/json_schema.json",
   "logo": {
     "type": "file",
-    "source": "C:/Users/%USERNAME%/.config/fastfetch/ascii.txt",
+    "source": "C:/Users/ender/.config/fastfetch/ascii.txt",
     "color": {
       "1": "#F5E0DC",
       "2": "#F2CDCD",
@@ -16,7 +16,7 @@
     },
     "padding": {
       "top": 0,
-      "right": 1
+      "right": 9
     }
   },
   "display": {
