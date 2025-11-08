@@ -1,0 +1,18 @@
+$1                                                            
+$1                                       ROGROGROGROGROGROGR  
+$2                                   ROGROGROGROGROGRO        
+$2                                ROGROGROGROGROG        ROG  
+$3                              ROGROGROGROG        ROGROGRO  
+$3                            ROGROGROGR       OGROGROGROG    
+$4  R                      OGROGROGRO     GROGROGROG ROGR     
+$4  ROG                  ROGROGRO     GROGROGRO GROGROGR      
+$5  ROGR  OG           ROGROGR    OGROGROGR OGROGROGROG       
+$5  ROGRO  GROG     ROGROGR   OGROGROG  ROGROGROGROGRO        
+$6    ROGR OGROGROGROGROG ROGROGROG ROGROGRO  GROGROG         
+$6      ROGROGROGROGRO GROGROGR OGROGR      OGROGRO           
+$7         R OGROGR OGROGRO GRO            GROGROG            
+$7            ROGR OGROGROG              ROGROGRO             
+$8             ROGR   OGROGROGROGROGROGROGROGRO               
+$8               ROG       ROGROGROGROGROGROG                 
+$9                 RO             GROGROGR                    
+$9                                                            

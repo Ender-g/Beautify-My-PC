@@ -1,0 +1,95 @@
+{
+  "$schema": "file:///C:/Users/%USERNAME%/.config/fastfetch/fastfetch/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "C:/Users/%USERNAME%/.config/fastfetch/ascii.txt",
+    "color": {
+      "1": "#F5E0DC",
+      "2": "#F2CDCD",
+      "3": "#F5C2E7",
+      "4": "#FAB387",
+      "5": "#F9E2AF",
+      "6": "#A6E3A1",
+      "7": "#94E2D5",
+      "8": "#89DCEB",
+      "9": "#74C7EC"
+    },
+    "padding": {
+      "top": 0,
+      "right": 1
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    "break",
+    {
+      "type": "title",
+      "key": "󰊠 Name\t",
+      "keyColor": "red",
+      "color": {
+        "user": "#F5C2E7",
+        "at": "#CDD6F4",
+        "host": "#89DCEB"
+      }
+    },
+    "break",
+    {
+      "type": "os",
+      "key": " OS\t",
+      "keyColor": "#89DCEB"
+    },
+    {
+      "type": "cpu",
+      "key": " CPU\t",
+      "keyColor": "#F5C2E7"
+    },
+    {
+      "type": "gpu",
+      "key": "󰈍 GPU\t",
+      "keyColor": "#89DCEB"
+    },
+    {
+      "type": "bios",
+      "key": "󰚗 BIOS\t",
+      "keyColor": "#FAB387"
+    },
+    {
+      "type": "memory",
+      "key": " RAM\t",
+      "keyColor": "#A6E3A1",
+      "format": "{used} / {total} ({percentage})"
+    },
+    {
+      "type": "disk",
+      "key": " Disk\t",
+      "keyColor": "#94E2D5"
+    },
+    {
+      "type": "battery",
+      "key": "󰁹 Power\t",
+      "keyColor": "#F5C2E7"
+    },
+    {
+      "type": "uptime",
+      "key": "󰚖 Uptime\t",
+      "keyColor": "#F5C2E7"
+    },
+    {
+      "type": "terminal",
+      "key": " Term\t",
+      "keyColor": "#89DCEB"
+    },
+    {
+      "type": "shell",
+      "key": " Shell\t",
+      "keyColor": "#89DCEB"
+    },
+    "break",
+    {
+      "type": "colors",
+      "symbol": "circle"
+    }
+  ]
+}
