@@ -8,6 +8,8 @@
 
 ## 🔴 优化内容
 
+### 💠 [WindowsTerminal美化](./WindowsTerminal美化/配置步骤.md)
+
 ### 💠 [配置 `fastfetch`](./fastfetch/配置步骤.md)
 
 ### 💠 [配置 `OhMyPosh`](./OhMyPosh/配置步骤.md)
